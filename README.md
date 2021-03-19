@@ -1,2 +1,5 @@
 # Etch-a-Sketch
-Etch a sketch created mainly with javascript in the process of theodinproject.com
+Draw whatever you want with Etch a Sketch project built in javaScript in the process of theodinproject.com
+
+TODO:
+* turn Gradient/Random into a switch
